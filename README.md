@@ -10,5 +10,6 @@ Key Highlights:
 4.Visualized Key Performance Indicators (KPIs) in a format that provides a quick overview of the company's performance.
 5.Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
-Excel File Link :  
+Excel File Link : https://docs.google.com/spreadsheets/d/1gBliL3zdJ28nT0MqebNfavnZmx81_lp_/edit?usp=sharing&ouid=103700944162152605879&rtpof=true&sd=true
+
 Pdf Link : https://drive.google.com/file/d/1qDyD6szfN0LzikOB6pyBGY01pjCX6u36/view?usp=sharing
